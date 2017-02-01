@@ -1,4 +1,6 @@
-114_congress.csv contains all of the results of roll call votes from the 114th Senate. Each row represents a single Senator, and each column represents a vote. A 0 in a cell means the Senator voted No on the bill, 1 means the Senator voted Yes, and 0.5 means the Senator abstained.
+114_congress.csv contains all of the results of roll call votes from the 114th Senate. 
+Each row represents a single Senator, and each column represents a vote.
+A 0 in a cell means the Senator voted No on the bill, 1 means the Senator voted Yes, and 0.5 means the Senator abstained.
 
 Here are the relevant columns:
 
